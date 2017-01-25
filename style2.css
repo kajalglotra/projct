@@ -1,0 +1,12 @@
+table {
+          border-collapse: collapse; margin-top: 200px; width: 600px;
+    }
+table, th, td {
+     border: 1px solid black;
+    }
+.header{
+ 	 background-color: #9ca1a8;
+    }
+.row{
+     background-color: #babfc6;
+    }
