@@ -1,0 +1,31 @@
+.searchbar{
+  width:350px; height:100px; padding-top:1px; margin-top:0px;padding-left: 15px;
+            
+}           
+           
+.sizes{
+  padding-left: 15px;padding-top: 25px; margin:5px; height:190px;   
+}
+#corners{
+  border-radius: 0px;
+}
+ @media only screen and (max-width:800px ){
+         .container{
+      
+        margin-left:7px;
+      
+  }
+}
+@media only screen and  (min-width:805px) and (max-width: 1200px){
+   .container{
+    width:100%;
+   margin-left: 7px;
+   
+  
+    
+   }
+}
+ 
+
+ 
+ 
