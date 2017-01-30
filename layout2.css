@@ -1,0 +1,27 @@
+.btn1{
+  background-color:#4286f4; color:white; border-radius:6px;height:2.5em;width:80px;border:none;
+ }
+.btn2{
+  border-radius:6px;height:2.5em; box-shadow: none; background-color: white;width:80px; border :1px solid #d4d7db;
+}
+.heading{
+  text-align:center;
+}
+.para{
+  text-align:center;
+}
+.btn3{
+ background-color:#4286f4; color:white;border-radius:6px;height:2.5em; border:none;
+}
+@media (max-width: 540px){
+ .col-xs-6{
+    width:100%;
+  } 
+}
+#corners{
+  border-radius: 0px;
+}
+.row{
+  padding-left: 0px;
+  padding-right: 0px;
+}
