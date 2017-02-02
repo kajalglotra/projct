@@ -1,0 +1,20 @@
+       .header{
+      	border:2px solid #e3e5e8;
+      	height:50px;
+      	border-left:none;
+
+      }
+      .body1{
+      	border:2px solid #e3e5e8;
+      	height:200px;
+      	border-left:none;
+
+      }
+      .body2{
+      	border:2px solid #e3e5e8;
+      	height:200px;
+      	border-left:none;
+      }
+      a{
+            cursor:pointer;
+      }
