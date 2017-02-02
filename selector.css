@@ -1,0 +1,14 @@
+.descendants * { 
+ display: block;border: 2px solid lightgrey;color: lightgrey;padding: 5px; margin: 15px;
+}
+
+.header{
+ width:300px;background:linear-gradient(#e3e5e8,white); color:#e3e5e8;
+}
+.container{
+ border-left: 2px solid #e3e5e8;
+}
+
+ ol li {
+      list-style-type:none;
+    }
